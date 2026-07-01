@@ -37,8 +37,3 @@ The MATLAB code is divided into two primary parts:
 * **Top Plot:** Position ($x_b$) and Velocity ($V_b$) of Mass 2 over time.
 * **Bottom Plot:** Position ($x_a$) and Velocity ($V_a$) of Mass 1 over time.
 
-
-
----
-
-Would you like me to help you take this project to the next level by designing a PID controller for it, or perhaps showing you how to find the system's Transfer Function?
