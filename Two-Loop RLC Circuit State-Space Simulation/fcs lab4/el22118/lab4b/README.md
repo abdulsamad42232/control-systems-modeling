@@ -33,7 +33,3 @@ Because there are three energy-storage elements (two inductors, one capacitor), 
 2. Save both the main script and the `RLC` function file in your current working directory.
 3. Execute the main script.
 4. A figure window will map the dynamic step response of the components, demonstrating how the currents and voltages oscillate and eventually settle into their steady-state values.
-
----
-
-Because this system is highly coupled (changing $R_1$ affects $i_2$, etc.), it can be hard to visualize how the math behaves. I've built an interactive simulation of your exact 3rd-order differential equations below. Try adjusting the values to see how the two loops interact!
