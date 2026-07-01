@@ -36,7 +36,7 @@ This repository is divided into four distinct simulation projects:
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/abdulsamad42232/control-systems-modeling.git]
-```
+
 
 2. Open MATLAB and navigate to the cloned directory.
 3. Open any of the sub-folders and run the respective `main.m` or executable script to generate the system response plots. Each sub-folder contains its own specific documentation for precise parameter adjustments.
